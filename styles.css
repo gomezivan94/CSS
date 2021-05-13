@@ -1,0 +1,39 @@
+h1{
+    color: rgb(195, 215, 101);
+    font-size: 180px;
+    font-weight: bold;
+}
+
+.lorem{
+    color: blue;
+    font-family: fantasy;
+    font-weight: bold;
+}
+#link{
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: serif;
+    color: #fff5;
+    background-color: hotpink;
+}
+#link:hover{
+    background-color: blue;
+}
+#link:active{
+    background-color: brown;
+}
+ul{
+    background-color: coral;
+    color: blue;
+    list-style-type: none;
+}
+.list{
+    color: chartreuse;
+}
+.list:hover{
+    background-color: magenta;
+    color: maroon;
+}
+.list:active{
+    background-color: mediumpurple;
+}
