@@ -34,6 +34,7 @@ ul{
 .list:hover{
     background-color: magenta;
     color: maroon;
+    cursor: crosshair;
 }
 .list:active{
     background-color: mediumpurple;
